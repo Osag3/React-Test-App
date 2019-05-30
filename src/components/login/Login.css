@@ -1,0 +1,13 @@
+.login-content-card {
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.username-input {
+  width: 360px;
+}
+.password-input {
+  width: 360px;
+}
