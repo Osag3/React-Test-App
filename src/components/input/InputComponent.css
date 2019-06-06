@@ -1,0 +1,21 @@
+.input-component {
+  width: 360px;
+  background: #2f2f32;
+  border-width: 1px;
+  border: none;
+  border-radius: 4px;
+}
+.input-placeholder {
+  color: #faa916;
+  margin-bottom: 4px;
+}
+.error-message {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  height: 18px;
+  color: #a93042;
+}
+
+.input-component:focus {
+  outline: solid 1px #faa916;
+}
